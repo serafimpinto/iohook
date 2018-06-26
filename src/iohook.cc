@@ -508,7 +508,7 @@ void HookProcessWorker::Stop()
 NAN_METHOD(GrabMouseClick) {
   if (info.Length() > 0)
   {
-    //grab_mouse_click(info[0]->IsTrue());
+    // grab_mouse_click(info[0]->IsTrue());
   }
 }
 
